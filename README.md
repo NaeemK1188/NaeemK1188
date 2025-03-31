@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-![Static Badge](https://img.shields.io/badge/Linkdin-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnaeem-khayat-albirkdar%2F)
+[![Linkdin](https://img.shields.io/badge/Linkdin-blue?style=plastic&link=Linkdin-profile)](https://www.linkedin.com/in/naeem-khayat-albirkdar/)
+
