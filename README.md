@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my resume and linkdin
 - 🌱 I’m currently working on leetCode problems 
 - 👯 I’m looking to collaborate on more projects
-- 🤔 thinking about more projecst to build
+- 🤔 thinking about more projects to build
 - 💬 Ask me about 
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
