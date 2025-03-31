@@ -10,5 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div align="center">
   
-[![Linkdin](https://img.shields.io/badge/Linkdin-blue?style=plastic&link=Linkdin-profile)](https://www.linkedin.com/in/naeem-khayat-albirkdar/)
+  [![Linkdin](https://img.shields.io/badge/Linkdin-blue?style=plastic&link=Linkdin-profile)](https://www.linkedin.com/in/naeem-khayat-albirkdar/)
+  
+</div>
+               
